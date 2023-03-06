@@ -6,7 +6,7 @@
         "phone": "(706) 722-7772",
         "website": "https://www.thebollweevil.com/",
         "membership": "level 4",
-        "image": "images/??????.jpg"
+        "image": "images/bollWeevil.png"
       },
       {
         "name": "Psychotronic Records",
@@ -14,7 +14,7 @@
         "phone": "(706) 550-5774",
         "website": "http://psychotronic.com/",
         "membership": "level 4",
-        "image": "images/???.jpg"
+        "image": "images/RECORDSHOP.jpg"
       },
       {
         "name": "2nd & Charles",
@@ -22,7 +22,7 @@
         "phone": "(706) 481-9090",
         "website": "https://www.2ndandcharles.com/locations/augusta",
         "membership": "level 4",
-        "image": "images/?????.png"
+        "image": "images/2nd.png"
       },
       {
         "name": "Bruster's Real Ice Cream",
@@ -30,7 +30,7 @@
         "phone": "(706) 731-9929",
         "website":"https://brusters.com/" ,
         "membership": "level 4", 
-        "image": "images/???.png"
+        "image": "images/BRUSTERS.jpg"
       },
       {
         "name": "Escape Outdoors",
@@ -38,7 +38,7 @@
         "phone": "(706) 869-8080",
         "website": "https://shopescapeoutdoors.com/",
         "membership": "level 4",
-        "image": "images/???.jpg"
+        "image": "images/escapeoutdoors.jpg"
       },
       {
         "name": "Chicken Salad Chick",
@@ -46,7 +46,7 @@
         "phone": "(706) 553-7357",
         "website": "https://www.chickensaladchick.com/augusta/",
         "membership": "level 4",
-        "image": "images/?????.png"
+        "image": "images/chicksaladchick.jpg"
       },
       {
         "name": "Active Climbing Augusta",
@@ -54,7 +54,7 @@
         "phone": "(706) 922-1054",
         "website": "https://www.activeclimbingaugusta.com/",
         "membership": "level 4",
-        "image": "images/????.jpg"
+        "image": "images/rockclimbing.jpg"
       },
       {
         "name": "Andy Jordan's Bicycle Warehouse",
@@ -62,7 +62,7 @@
         "phone": "(706) 724-2453",
         "website": "https://www.andyjordans.com/" ,
         "membership": "level 4",
-        "image": "images/???.jpg"
+        "image": "images/bikebike.jpg"
       },
       {
         "name": "Evans Cinemas",
@@ -70,7 +70,7 @@
         "phone": "(706) 869-0543",
         "website": "https://www.gtcmovies.com/showtimes/evans-cinemas",
         "membership": "level 4",
-        "image": "images/deseretbook.png"
+        "image": "images/movvies.webp"
       }
     ]
   }
